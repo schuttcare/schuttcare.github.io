@@ -10,8 +10,7 @@ View the care calendar below for more details.
 ### Email all his sons at: schuttcare at googlegroups.com
 - (Don't forget to change the email address from at to @ and remove the spaces)
 - After verifying an open time on the calendar, and coordinating with his sons, please text your tentative plans to Dad
-
-### Additional Guidance
+#### Additional Guidance
 - Even when he's exhausted, Dad does not easily say no to visitors
 - He often forgets that he has a prior obligation and then accepts someone request to visit
 - He can't focus on more then one person at a time, and any distractions slow him down tremendously
