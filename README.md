@@ -5,6 +5,7 @@ View the care calendar below for more details.
 - Aid services are typically scheduled everyday from 9am-12pm & 6:30pm-9:30pm
 - Additional care is received every weekday afternoon at varying times
 - Please don't visit when other appointments exist
+
 ## Who should I contact in order to schedule a visit?
 ### Email all his sons at: schuttcare at googlegroups.com
 - (Don't forget to change the email address from at to @ and remove the spaces)
